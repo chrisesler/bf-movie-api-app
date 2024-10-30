@@ -49,6 +49,7 @@ certificates
 
 # Other
 __OLD_PAGES/
+__OLD
 
 # Sentry Config File
 .env.sentry-build-plugin

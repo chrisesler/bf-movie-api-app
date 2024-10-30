@@ -41,3 +41,17 @@ CODEOWNERS
 # https://github.com/prettier/prettier/issues/11834
 scripts/release-post/template.hbs
 
+# husky
+.husky
+
+# yarn
+yarn.lock
+
+# prettier
+.prettierignore
+
+# editor config
+.editorconfig
+
+# git
+.gitignore
